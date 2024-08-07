@@ -1,4 +1,10 @@
 # Featured Products
+
+## New Discount: Coffeehut_wallet payments
+- **Product**: All featured products daily
+- **Discount**: 10% off
+- **Valid Until**: August 31, 2024
+  
 **Orange Cake**
 
 A soft and tender cake bursting with fresh orange flavor. It’s made with ingredients like orange juice, zest, and eggs. The cake is moist and flavorful, perfect for sharing with friends and family. You can find a simple recipe 
